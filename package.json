@@ -1,5 +1,6 @@
 {
   "name": "travel_adviser",
+  "home": "https://advisor.resortgetaway.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
