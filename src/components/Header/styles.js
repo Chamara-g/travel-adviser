@@ -42,5 +42,6 @@ export default makeStyles((theme) => ({
   toolbar: {
     display: 'flex',
     justifyContent: 'space-between',
+    'background-color': '#14517f',
   },
 }));
